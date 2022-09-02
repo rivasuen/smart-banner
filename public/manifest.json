@@ -24,6 +24,11 @@
   "background_color": "#ffffff",
   "prefer_related_applications": true,
 "related_applications": [
+  {
+    "platform": "itunes",
+    "id": "1616182112",
+    "url": "https://apps.apple.com/ca/app/tvo-today/id1616182112"
+    },
     {
     "platform": "play",
     "id": "com.google.samples.apps.iosched"
