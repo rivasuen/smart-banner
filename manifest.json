@@ -20,14 +20,14 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "theme_color": "#2f7f2d",
+  "background_color": "#41aaaa",
   "prefer_related_applications": true,
 "related_applications": [
   {
     "platform": "play",
-    "url": "https://play.google.com/store/apps/details?id=com.medium.reader",
-    "id": "com.medium.reader"
+    "url": "https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched",
+    "id": "com.google.samples.apps.iosched"
     }
 ]
 }
